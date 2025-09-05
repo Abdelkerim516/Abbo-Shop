@@ -20,7 +20,7 @@ Chez Abbo-Shop, notre mission est de rendre les technologies innovantes accessib
         </div>
 
         <div className="space-y-6">
-          <h2 className="text-2xl font-semibold text-red-600">Pourquoi choisir Zaptro ?</h2>
+          <h2 className="text-2xl font-semibold text-red-600">Pourquoi choisir Abbo-Shop ?</h2>
           <ul className="list-disc pl-6 text-gray-700 space-y-2">
             <li>Produits électroniques de qualité supérieure de marques de confiance</li>
             <li>Expédition ultra-rapide et sécurisée</li>
@@ -37,7 +37,7 @@ Chez Abbo-Shop, notre mission est de rendre les technologies innovantes accessib
         </div>
 
       </div>
-              <h1 className="text-4xl font-bold  text-center">Rejoignez la famille Abbo-Shop</h1>
+              <h1 className="text-4xl font-bold  text-center">Rejoignez la famille Dev-Web et Mobile</h1>
               <iframe src="https://e.widgetbot.io/channels/1288146716432011324/1288146716432011326" allow="clipboard-write; fullscreen" height="900" width="1500"></iframe>
       <div className="text-center mt-10">
           {/* <h3 className="text-xl font-semibold text-red-600 mb-2">Rejoignez la famille Zaptro</h3>

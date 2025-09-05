@@ -1,12 +1,42 @@
-# React + Vite
+# 🛒 E-commerce Électronique  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un site e-commerce moderne développé avec **React.js**, **Bootstrap** et l’API **FakeStoreAPI** pour l’affichage des produits.  
+Le projet inclut un système d’authentification avec **Clerk** pour l’inscription et la connexion des utilisateurs.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Fonctionnalités  
 
-## Expanding the ESLint configuration
+- Affichage des produits depuis **FakeStoreAPI**  
+- Interface moderne et responsive avec **Tailwindcss**  
+- Système d’authentification complet (inscription, connexion, gestion des sessions) via **Clerk**  
+- Ajout au panier et gestion des produits sélectionnés  
+- Navigation simple et rapide avec React Router  
+- Design optimisé pour desktop et mobile  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies utilisées  
+
+- **React.js** – bibliothèque JavaScript pour l’interface utilisateur  
+- **Bootstrap** – framework CSS pour le responsive design  
+- **FakeStoreAPI** – API publique pour les produits factices  
+- **Clerk** – service d’authentification moderne et sécurisé  
+- **JavaScript (ES6+)**  
+
+---
+
+## 📦 Installation & Utilisation  
+
+1. **Cloner le projet**  
+```bash
+git clone https://github.com/Abdelkerim516/Abbo-Shop.git
+cd Abbo-Shop
+
+2. **Installer les dépendances**
+
+npm install
+
+3. **Lancer les projets**
+
+npm run dev
